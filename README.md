@@ -1,5 +1,5 @@
 # dio-teste-language-studio
-Repositório para documentar o teste de Analise de sentimento do Language Studio da Azure. Esta iteligencia utiliza da analise de palavras chaves e correlações para entender e avaliar o sentimento do autor do texto. As imagens foram capturadas da página inteira para incluir a análise de cada sentença.
+Repositório para documentar o teste de Análise de Sentimento do Language Studio da Azure. Esta inteligência utiliza a análise de palavras-chave e correlações para entender e avaliar o sentimento do autor do texto. As imagens foram capturadas da página inteira para incluir a análise de cada sentença.
 
 Foram feitos dois testes:
 
